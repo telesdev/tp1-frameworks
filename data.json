@@ -1,0 +1,8 @@
+{
+    "tarefas": [
+        {"id": 1, "descricao": "Fazer o TP1", "estaCompleta": false},
+        {"id": 2, "descricao": "Query SQL", "estaCompleta": false},
+        {"id": 3, "descricao": "Estudar VUE", "estaCompleta": true},
+        {"id": 4, "descricao": "Assistir o TI", "estaCompleta": false}
+    ]
+}
