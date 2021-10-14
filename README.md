@@ -45,4 +45,4 @@ filters: {
 Abre precedente para alguém passar um script html e achar uma brecha no seu site.
 
 ### Questão 10
-- Código desde repositório
+- Código deste repositório
