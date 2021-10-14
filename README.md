@@ -4,6 +4,7 @@
 
 ### Questão 1
 a. O MVVM é um modelo criado para aplicações web responderem mais rapidamente com a interação do usuário. Ele tem uma comunicação mais direta com a visão, não tendo a camada de Controle.
+
 b. View, Data Binder, View-Model e Model
 
 ### Questão 2
@@ -14,6 +15,7 @@ Uma aplicação é reativa quando ela recebe algum tipo de dado ou mudança no e
 
 ### Questão 4
 a. 'v-if'
+
 b. 'v-show'. A diretiva 'v-if' é usada para renderizar um bloco de acordo com uma condição. O bloco só será renderizado se a expressão da diretiva retornar um valor verdadeiro. No caso do 'v-show' o bloco será renderizado de qualquer maneira, porém se a expressão retornar um valor falso, a diretiva usará o CSS para não mostrar o conteúdo utilizando a regra 'display: none;'.
 
 ### Questão 5
@@ -21,19 +23,20 @@ Usando o 'double moustache' englobando o nome da variável.
 
 ### Questão 6
 a. É um DOM criado pelo Vue que pode alterar o HTML de forma mais rápida que o DOM do browser.
+
 b. É, também, por conta do Loop de Eventos que as mudanças ocorrem em tempo real. Quando algum dado sofre alteração, o DOM virtual é renderizado novamente e esse alter ao DOM do browser na hora.
 
 ### Questão 7
 Quando queremos fazer um loop e exibir uma lista de elementos.
 
 ### Questão 8
-{{ coisa | tudoMinusculo }} onde tudoMinusculo é um filtro que transforma todas as letras em
+`{{ coisa | tudoMinusculo }} onde tudoMinusculo é um filtro que transforma todas as letras em
 letras minúsculas.
 filters: {
  tudoMinusculo: function (coisa) {
  return valor.toLowerCase();
  }
-}
+}`
 
 ### Questão 9
 Abre precedente para alguém passar um script html e achar uma brecha no seu site.
