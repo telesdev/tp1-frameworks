@@ -30,13 +30,16 @@ b. É, também, por conta do Loop de Eventos que as mudanças ocorrem em tempo r
 Quando queremos fazer um loop e exibir uma lista de elementos.
 
 ### Questão 8
-`{{ coisa | tudoMinusculo }} onde tudoMinusculo é um filtro que transforma todas as letras em
+{{ coisa | tudoMinusculo }} onde tudoMinusculo é um filtro que transforma todas as letras em
 letras minúsculas.
+
+``
 filters: {
  tudoMinusculo: function (coisa) {
  return valor.toLowerCase();
  }
-}`
+}
+``
 
 ### Questão 9
 Abre precedente para alguém passar um script html e achar uma brecha no seu site.
