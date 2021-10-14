@@ -45,4 +45,4 @@ filters: {
 Abre precedente para alguém passar um script html e achar uma brecha no seu site.
 
 ### Questão 10
-Clonar o repositório e abrir com o Live Server
+- Clonar o repositório e abrir com o Live Server
