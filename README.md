@@ -2,11 +2,6 @@
 
 ## Teste de Performance 1 da disciplina Frameworks Front-End e Conexão com Back-End do bloco de Front-End
 
-
-### Running the code
-Clonar o repositório e abrir com o Live Server
-
-
 ### Questão 1
 a. O MVVM é um modelo criado para aplicações web responderem mais rapidamente com a interação do usuário. Ele tem uma comunicação mais direta com a visão, não tendo a camada de Controle.
 
@@ -50,4 +45,4 @@ filters: {
 Abre precedente para alguém passar um script html e achar uma brecha no seu site.
 
 ### Questão 10
-- Código deste repositório
+Clonar o repositório e abrir com o Live Server
